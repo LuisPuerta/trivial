@@ -5,3 +5,5 @@ Also, you have 2 game modes: Versus (player vs player) and a Solo mode where you
 There are 5 "special cells" where you need to land and correctly answer the question, this will give you a "cheese/star" for that specific category (each category has also its proper color).
 
 As a board game, each player plays by rolling a dice a moving around the board with the numbers they get by the dice, there's also some "dice cells" that let the player roll the dice again in the same turn.
+
+The match will end when a player reachs 5 "cheeses/stars". The ones for each category (this categories will repeat if they are less than 5)
